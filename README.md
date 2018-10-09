@@ -1,7 +1,7 @@
 Event sourcing with Kafka in Go
 ===============================
 Interactive demo accompanying talk at Stockholm Go Conference 2018 and
-[blog post]().
+[blog post](https://www.formulate.app/formulate-hq-blog/event-sourcing-with-kafka-in-go).
 
 
 ## Requirements
